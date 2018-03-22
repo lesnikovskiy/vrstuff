@@ -6,6 +6,7 @@ import {
   Text,
   View,
   Sound,
+  VideoPano
 } from 'react-vr';
 
 import MainMenu from './Components/Scenes/MainMenu.js';
